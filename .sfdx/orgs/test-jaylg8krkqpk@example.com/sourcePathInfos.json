@@ -2,14 +2,14 @@
     [
         "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app",
         {
-            "state": "n",
             "sourcePath": "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1534335974138,
             "changeTime": 1534335974138,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1534335974138,
             "changeTime": 1534335974138,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -37,22 +37,22 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1534337453125,
-            "changeTime": 1534337453125,
-            "contentHash": "e06b7379bb8b6b138298025ffea2c8760aff4665"
+            "modifiedTime": 1534344948125,
+            "changeTime": 1534344948125,
+            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a"
         }
     ],
     [
         "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1534335974138,
             "changeTime": 1534335974138,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1",
         {
-            "state": "n",
             "sourcePath": "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1534336718199,
             "changeTime": 1534336718199,
             "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -75,27 +75,144 @@
     [
         "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 542,
             "modifiedTime": 1534337453140,
             "changeTime": 1534337453140,
-            "contentHash": "7d21d1c0e067923b5076a1908839c390bf90e8d8"
+            "contentHash": "7d21d1c0e067923b5076a1908839c390bf90e8d8",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main\\default\\permissionsets",
         {
-            "state": "u",
             "sourcePath": "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1534337453140,
             "changeTime": 1534337453140,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main\\default\\objects\\Account\\fields\\lo__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main\\default\\objects\\Account\\fields\\lo__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 398,
+            "modifiedTime": 1534344948125,
+            "changeTime": 1534344948125,
+            "contentHash": "8c1f2585ff912a842c7c3c541b653e6ad860d5d6"
+        }
+    ],
+    [
+        "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9624,
+            "modifiedTime": 1534344948141,
+            "changeTime": 1534344948141,
+            "contentHash": "c596e70099aefd0228affbab8ae8c466342b0e43"
+        }
+    ],
+    [
+        "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9576,
+            "modifiedTime": 1534344948149,
+            "changeTime": 1534344948149,
+            "contentHash": "e2cb8f8df06165341067269bb5a04abbefd23cc7"
+        }
+    ],
+    [
+        "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9624,
+            "modifiedTime": 1534344948161,
+            "changeTime": 1534344948161,
+            "contentHash": "326481ae00520a58875cd18bad74b2c2c912d1d8"
+        }
+    ],
+    [
+        "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9576,
+            "modifiedTime": 1534344948161,
+            "changeTime": 1534344948161,
+            "contentHash": "d4d7ab3d071c0353c3cf68876f783ff574a2a212"
+        }
+    ],
+    [
+        "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534344948125,
+            "changeTime": 1534344948125,
+            "contentHash": "ebfb0f0e1ec1ff8c3f87a4fd359041f0f583a18c"
+        }
+    ],
+    [
+        "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534344948125,
+            "changeTime": 1534344948125,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534344948125,
+            "changeTime": 1534344948125,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Divya\\Hughes\\Download\\CLI\\Salesforce CLI\\geolocation1\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534344948161,
+            "changeTime": 1534344948161,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
         }
     ]
 ]
